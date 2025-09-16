@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/RoyalCity/static/css/main.98c198cc.css",
+    "main.js": "/RoyalCity/static/js/main.521a6777.js",
+    "static/js/787.cda612ba.chunk.js": "/RoyalCity/static/js/787.cda612ba.chunk.js",
+    "static/media/building2.jpg": "/RoyalCity/static/media/building2.8205e55e7371cd3bdd9c.jpg",
+    "static/media/building4.jpg": "/RoyalCity/static/media/building4.63218ca381a6e92721a1.jpg",
+    "static/media/sellhome.jpg": "/RoyalCity/static/media/sellhome.fbdc84a9bc7c112515eb.jpg",
+    "static/media/building3.jpg": "/RoyalCity/static/media/building3.0d737bb3e0af36e2b185.jpg",
+    "static/media/home.jpg": "/RoyalCity/static/media/home.8de27d541a89e0d330b6.jpg",
+    "static/media/vrmobile.png": "/RoyalCity/static/media/vrmobile.79ab4541e5523996a00e.png",
+    "static/media/building1.jpg": "/RoyalCity/static/media/building1.bcd6ba36b68295300490.jpg",
+    "static/media/fa-solid-900.ttf": "/RoyalCity/static/media/fa-solid-900.e615bbcb258550973c16.ttf",
+    "static/media/header.jpg": "/RoyalCity/static/media/header.73533b0504e769e5d2ab.jpg",
+    "static/media/about-image.png": "/RoyalCity/static/media/about-image.0bfaee5462c7dbeac94e.png",
+    "static/media/fa-brands-400.ttf": "/RoyalCity/static/media/fa-brands-400.b823fc0dbb5a5f0c21bb.ttf",
+    "static/media/fa-solid-900.woff2": "/RoyalCity/static/media/fa-solid-900.59edf72a325ac2048d60.woff2",
+    "static/media/trading.jpg": "/RoyalCity/static/media/trading.7ea1604c77dfd03416eb.jpg",
+    "static/media/fa-brands-400.woff2": "/RoyalCity/static/media/fa-brands-400.ebb7a127d2d8ee6f1832.woff2",
+    "static/media/fa-regular-400.ttf": "/RoyalCity/static/media/fa-regular-400.0d03b1bbd1d62c1e1284.ttf",
+    "static/media/connect_wallet.png": "/RoyalCity/static/media/connect_wallet.4b5d438a954d4400b2ac.png",
+    "static/media/fa-regular-400.woff2": "/RoyalCity/static/media/fa-regular-400.0caf4c6cf244a90efcc5.woff2",
+    "static/media/building.jpg": "/RoyalCity/static/media/building.b6c79305ca877e5106cf.jpg",
+    "static/media/fa-v4compatibility.ttf": "/RoyalCity/static/media/fa-v4compatibility.4baccb548138840fa33a.ttf",
+    "static/media/fa-v4compatibility.woff2": "/RoyalCity/static/media/fa-v4compatibility.afac89562a5301459069.woff2",
+    "index.html": "/RoyalCity/index.html",
+    "main.98c198cc.css.map": "/RoyalCity/static/css/main.98c198cc.css.map",
+    "main.521a6777.js.map": "/RoyalCity/static/js/main.521a6777.js.map",
+    "787.cda612ba.chunk.js.map": "/RoyalCity/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98c198cc.css",
+    "static/js/main.521a6777.js"
+  ]
+}
